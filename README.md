@@ -25,10 +25,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://i.imgur.com/op6yuM6.gif)
+![](https://i.imgur.com/TiYzuXG.gif)
 
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
